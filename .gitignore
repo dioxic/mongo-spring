@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/multi-cluster/build/
+/multi-cluster/build/classes/java/main/
+/multi-cluster/build/classes/java/test/
